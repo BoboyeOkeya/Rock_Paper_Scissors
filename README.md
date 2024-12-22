@@ -18,9 +18,8 @@ Ensure you have the following
 - MediaPipe (pip install mediapipe)
 
 ## How to Run the Game
-- Download the "Game_package" file
-- Open the download file and
-- Double-click "run_RPS_Game.bat" batch file
+- Download these two files into the **same directory**: **RPS_Game.py** & **run_RPS_Game.bat**.
+- Double-click **"run_RPS_Game.bat"** batch file. And wait for the Game to start.
 - For those with no coding experience, who would simply love to just run the application: I am deeply sorry, but at the moment I am unable to create a **.exe executable file** that you can run without having to worry about all the required dependencies. 
 
 ## Playing the Game
