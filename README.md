@@ -18,7 +18,7 @@ Ensure you have the following
 - MediaPipe (pip install mediapipe)
 
 ## How to Run the Game
-- Download these two files into the **same directory**: **RPS_Game.py** & **run_RPS_Game.bat**.
+- Download these two files from **Game_package** into the **same directory** on your laptop: **RPS_Game.py** & **run_RPS_Game.bat**.
 - Double-click **"run_RPS_Game.bat"** batch file. And wait for the Game to start.
 - For those with no coding experience, who would simply love to just run the application: I am deeply sorry, but at the moment I am unable to create a **.exe executable file** that you can run without having to worry about all the required dependencies. 
 
@@ -31,7 +31,7 @@ Ensure you have the following
 
 -**A paper is with the fingers held closely together.**
 
-![Gestures](Game_package\RPS.jpg)
+![Gestures](Game_package/RPS.jpg)
 
 -The game will try to recognize your gesture and compare it with the computer's randomly chosen gesture.
 
