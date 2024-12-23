@@ -37,7 +37,7 @@ Ensure you have the following
 
 -**Try out different orientations and ambient light until you get a hang of which positions produce the appropriate gesture.**
 
--**You can find a video of the demonstration here on my [linked post](https://www.al.com/entertainment/2012/03/redstone_arsenal_will_host_roc.html).**
+-**You can find a video of the demonstration here on my [linked post](https://www.linkedin.com/posts/boboye-okeya-0036b393_alliwantforchristmas-rockpaperscissors-merrychristmas-activity-7276876777610702848-ikf4?utm_source=share&utm_medium=member_desktop).**
 
 -The results will be displayed on the screen along with the win counts.
 
